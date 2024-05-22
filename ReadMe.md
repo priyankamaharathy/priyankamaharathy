@@ -6,7 +6,7 @@
 <h3 align="left">👩‍💻 Here's a little about me:</h3>
 
 
-<p align="left">- 💻I love exploring new technologies and building cool stuff.<br>- 📰 Reading, writing & watching Tech Stuff whenever possible.<br>- </p>
+<p align="left">- 💻I love exploring new technologies and building cool stuff.<br>- 📰 Reading, writing & watching Tech Stuff whenever possible.<br></p>
 
 ###
 
@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
   <img width="12" />
