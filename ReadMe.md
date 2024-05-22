@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="14" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css height="60" alt="amazonwebservices logo"  />
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg?color=%233A7C91" height="60" alt="amazonwebservices logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="circleci logo"  />
   <img width="14" />
