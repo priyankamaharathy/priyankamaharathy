@@ -38,7 +38,7 @@
 
 ###
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyankamaharathy&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankamaharathy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankamaharathy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 ![](https://github-contributor-stats.vercel.app/api?username=priyankamaharathy&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 
 
