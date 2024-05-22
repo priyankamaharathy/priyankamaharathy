@@ -6,7 +6,7 @@
 <h3 align="left">👩‍💻 Here's a little about me:</h3>
 
 
-<p align="left"><br><br>- 💻I love exploring new technologies and building cool stuff.<br>- 💻I love exploring new technologies and building cool stuff.<br>- </p>
+<p align="left">- 💻I love exploring new technologies and building cool stuff.<br>- 📰 Reading, writing & watching Tech Stuff whenever possible.<br>- </p>
 
 ###
 
