@@ -37,6 +37,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-![priyankamaharathy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyankamaharathy&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyankamaharathy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankamaharathy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
