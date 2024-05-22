@@ -38,6 +38,6 @@
 
 ###
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyankamaharathy&theme=dark&hide_border=false)<br/>
-![](https://githubreadmestats.vercel.app/api/toplangs/username=priyankamaharathy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layoutpact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankamaharathy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
