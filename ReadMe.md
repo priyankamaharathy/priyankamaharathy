@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="150" src="[724f5475314d71782f67697068792e676966](https://github.com/priyankamaharathy/priyankamaharathy/blob/main/github-header-image.png]"  />
-</div>
+
+  <img src="724f5475314d71782f67697068792e676966](https://github.com/priyankamaharathy/priyankamaharathy/blob/main/github-header-image.png"  />
+
 
 ###
 
