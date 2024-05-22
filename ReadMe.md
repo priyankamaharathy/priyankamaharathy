@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="40" alt="css logo"  />
   <img width="15" />
-  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg?color=%233A7C91" height="70" alt="tailwind logo"  />
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg?color=%233A7C91" height="80" alt="tailwind logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="14" />
