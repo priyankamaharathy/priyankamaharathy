@@ -6,7 +6,7 @@
 <h3 align="left">👩‍💻 Here's a little about me:</h3>
 
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"><br><br>- 💻I love exploring new technologies and building cool stuff.<br>- 💻I love exploring new technologies and building cool stuff.<br>- </p>
 
 ###
 
