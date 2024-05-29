@@ -9,7 +9,7 @@
 <p align="left">- 💻I love exploring new technologies and building cool stuff.<br>- 📰 Reading, writing & watching Tech Stuff whenever possible.<br>
 -📉I excel in extracting insights from complex datasets using SQL, Python, Excel, and Power BI. 
     I'm passionate about leveraging data to drive 
-      informed decision- making and optimize business processes.</p>
+      informed decision- making and optimize business processes.<br>-✌️Explore my projects to see examples of both my data analysis and web development work.</p>
 
 ###
 
