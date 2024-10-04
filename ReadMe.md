@@ -3,7 +3,7 @@
 </div>
 
 
-<h3 align="left">Here's a little about me:-</h3>
+<h3 align="left">Here's a little about me :-</h3>
 
 
 <p align="left">- I love exploring new technologies and building cool stuff.<br>
