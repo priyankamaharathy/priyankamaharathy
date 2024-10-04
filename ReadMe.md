@@ -15,8 +15,8 @@
 <h3 align="left"> Language and tools</h3>
 
 Languages: JavaScript, HTML, CSS, Node.js, Python, SQL <br>
-Frameworks/Libraries: React, Express.js, Tailwind CSS, Next.js, Pandas, Matplotlib, Excel, Power BI, Jupyter Notebook
-Databases: MongoDB, MySQL
+Frameworks/Libraries: React, Express.js, Tailwind CSS, Next.js, Pandas, Matplotlib, Excel, Power BI, Jupyter Notebook <br>
+Databases: MongoDB, MySQL <br>
 Tools: Git, GitHub, VS Code
 ###
 <h3 align="left">🔥   My Stats :</h3>
