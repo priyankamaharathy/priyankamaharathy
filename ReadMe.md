@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="390" width="900" src="https://github.com/priyankamaharathy/priyankamaharathy/blob/main/github-header-image.png"  />
+  <img height="380" width="900" src="https://github.com/priyankamaharathy/priyankamaharathy/blob/main/github-header-image.png"  />
 </div>
 
 
