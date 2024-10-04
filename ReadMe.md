@@ -14,31 +14,11 @@
 
 <h3 align="left"> Language and tools</h3>
 
-Languages: JavaScript, HTML, CSS, Node.js, TypeScript
-Frameworks/Libraries: React, Express.js, Tailwind CSS, Next.js
-Databases: MongoDB, PostgreSQL, MySQL
-Tools: Git, GitHub, VS Code, Docker, NPM, Webpack
+Languages: JavaScript, HTML, CSS, Node.js, Python, SQL 
+Frameworks/Libraries: React, Express.js, Tailwind CSS, Next.js, Pandas, Matplotlib, Excel, Power BI, Jupyter Notebook
+Databases: MongoDB, MySQL
+Tools: Git, GitHub, VS Code
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="40" alt="css logo"  />
-  <img width="15" />
-  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg?color=%233A7C91" height="80" alt="tailwind logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="node logo"  />
-</div>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
