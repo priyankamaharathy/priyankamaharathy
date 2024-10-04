@@ -3,7 +3,7 @@
 </div>
 
 
-<h3 align="left">Here's a little about me:</h3>
+<h3 align="left">Here's a little about me:-</h3>
 
 
 <p align="left">- I love exploring new technologies and building cool stuff.<br>
@@ -14,6 +14,10 @@
 
 <h3 align="left"> Language and tools</h3>
 
+Languages: JavaScript, HTML, CSS, Node.js, TypeScript
+Frameworks/Libraries: React, Express.js, Tailwind CSS, Next.js
+Databases: MongoDB, PostgreSQL, MySQL
+Tools: Git, GitHub, VS Code, Docker, NPM, Webpack
 ###
 
 <div align="left">
