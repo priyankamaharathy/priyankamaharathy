@@ -14,7 +14,7 @@
 
 <h3 align="left"> Language and tools</h3>
 
-Languages: JavaScript, HTML, CSS, Node.js, Python, SQL 
+Languages: JavaScript, HTML, CSS, Node.js, Python, SQL <br>
 Frameworks/Libraries: React, Express.js, Tailwind CSS, Next.js, Pandas, Matplotlib, Excel, Power BI, Jupyter Notebook
 Databases: MongoDB, MySQL
 Tools: Git, GitHub, VS Code
