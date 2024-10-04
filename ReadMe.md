@@ -18,11 +18,3 @@ Languages: JavaScript, HTML, CSS, Node.js, Python, SQL <br>
 Frameworks/Libraries: React, Express.js, Tailwind CSS, Next.js, Pandas, Matplotlib, Excel, Power BI, Jupyter Notebook <br>
 Databases: MongoDB, MySQL <br>
 Tools: Git, GitHub, VS Code
-###
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyankamaharathy&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankamaharathy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
-
-###
