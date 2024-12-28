@@ -1,10 +1,4 @@
-<div align="center">
-  <img height="390" width="900" src="https://github.com/priyankamaharathy/priyankamaharathy/blob/main/github-header-image.png"  />
-</div>
-
-
 <h3 align="left">Here's a little about me :-</h3>
-
 
 <p align="left">- I love exploring new technologies and building cool stuff.<br>
 - I excel in extracting insights from complex datasets using SQL, Python, Excel, and Power BI. I'm passionate about leveraging data to drive informed decision- 
