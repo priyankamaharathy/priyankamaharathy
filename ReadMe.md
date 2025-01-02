@@ -1,3 +1,6 @@
+![Beige Gradient Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/faf192a4-ccc5-4bd6-9d8f-6532114f7d36)
+
+
 <h3 align="left">Here's a little about me :-</h3>
 
 <p align="left">- I love exploring new technologies and building cool stuff.<br>
