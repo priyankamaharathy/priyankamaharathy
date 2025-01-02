@@ -1,5 +1,5 @@
 
-![Beige Gradient Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/db0a5ac9-9b41-46bb-80e1-7865c09e9041)
+![Beige Classy Personal LinkedIn Banner](https://github.com/user-attachments/assets/9cf2c861-7ba2-458f-a318-d24903360ebe)
 
 
 <h3 align="left">Here's a little about me :-</h3>
