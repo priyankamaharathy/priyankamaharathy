@@ -1,6 +1,5 @@
 
-![Beige Classy Personal LinkedIn Banner](https://github.com/user-attachments/assets/9cf2c861-7ba2-458f-a318-d24903360ebe)
-
+![Orange Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/7e323ef0-3c81-4c5c-a06e-e580b7dd209e)
 
 <h3 align="left">Here's a little about me :-</h3>
 
