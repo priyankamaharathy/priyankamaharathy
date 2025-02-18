@@ -3,5 +3,5 @@
 
 <h3 align="left">Here's a little about me :-</h3>
 
-<p align="left">- Skilled in **React.js, Node.js, Express.js with experience in **Next.js and TypeScript**.<br>- Currently working on **Full-Stack Web Development** projects.</p>
+<p align="left">- Skilled in **React.js, Node.js, Express.js with experience in ***Next.js and TypeScript***.<br>- Currently working on **Full-Stack Web Development** projects.</p>
    
