@@ -1,5 +1,4 @@
-
-(https://github.com/user-attachments/assets/3c145f98-8845-451b-9574-028c8e782427)
+![2](https://github.com/user-attachments/assets/3c145f98-8845-451b-9574-028c8e782427)
 
 <h3 align="left">Here's a little about me :-</h3>
 
