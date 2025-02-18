@@ -15,7 +15,7 @@
 
 <a href="http://www.github.com/priyankamaharathy"><img src="https://github-readme-stats.vercel.app/api?username=priyankamaharathy&show_icons=true&hide=stars,prs,issues,&title_color=ffffff&text_color=84cc16&icon_color=14b8a6&bg_color=312e81&hide_border=true&show_icons=true" alt="priyankamaharathy's GitHub stats" /></a>
 
-![dfb8e14d737d2cc2a5f65380a2ac3512](https://github.com/user-attachments/assets/477824f7-4020-45fd-94b9-9ee39d380c0f)
+<div align="right">![dfb8e14d737d2cc2a5f65380a2ac3512](https://github.com/user-attachments/assets/477824f7-4020-45fd-94b9-9ee39d380c0f)</div>
 
 <a href="http://www.github.com/priyankamaharathy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankamaharathy&stroke=84cc16&background=312e81&ring=ffffff&fire=ffffff&currStreakNum=84cc16&currStreakLabel=ffffff&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
