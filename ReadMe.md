@@ -14,6 +14,3 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/priyankamaharathy"><img src="https://github-readme-stats.vercel.app/api?username=priyankamaharathy&show_icons=true&hide=stars,prs,issues,&title_color=ffffff&text_color=84cc16&icon_color=14b8a6&bg_color=312e81&hide_border=true&show_icons=true" alt="priyankamaharathy's GitHub stats" /></a>
-
-<a href="https://github.com/priyankamaharathy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankamaharathy&langs_count=10&title_color=ffffff&text_color=84cc16&icon_color=14b8a6&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
