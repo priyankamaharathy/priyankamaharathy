@@ -3,7 +3,7 @@
 
 <h3 align="left">Here's a little about me :</h3>
 
-<p align="left">I'm a passionate Full-Stack Developer skilled in React.js, Node.js, Express.js, and currently learning Next.js. 
+<p align="left">I'm a passionate Full-Stack Developer skilled in React.js, Node.js, Express.js. 
 <br>Enhancing my skills in Next.js & performance optimization. </p>
 
 ### Tech Stack :
